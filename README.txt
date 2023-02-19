@@ -1,0 +1,1 @@
+Simple table created with flask and bootstrap.
